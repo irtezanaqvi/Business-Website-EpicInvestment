@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/irtezanaqvi/Business-Website-EpicInvestment/static/css/main.e4980218.chunk.css",
+    "main.js": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/main.2fde20b0.chunk.js",
+    "main.js.map": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/main.2fde20b0.chunk.js.map",
+    "runtime-main.js": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/runtime-main.928040ab.js",
+    "runtime-main.js.map": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/runtime-main.928040ab.js.map",
+    "static/css/2.0a8ff6d5.chunk.css": "/irtezanaqvi/Business-Website-EpicInvestment/static/css/2.0a8ff6d5.chunk.css",
+    "static/js/2.b287f8e1.chunk.js": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/2.b287f8e1.chunk.js",
+    "static/js/2.b287f8e1.chunk.js.map": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/2.b287f8e1.chunk.js.map",
+    "static/js/3.e8eb123f.chunk.js": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/3.e8eb123f.chunk.js",
+    "static/js/3.e8eb123f.chunk.js.map": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/3.e8eb123f.chunk.js.map",
+    "index.html": "/irtezanaqvi/Business-Website-EpicInvestment/index.html",
+    "static/css/2.0a8ff6d5.chunk.css.map": "/irtezanaqvi/Business-Website-EpicInvestment/static/css/2.0a8ff6d5.chunk.css.map",
+    "static/css/main.e4980218.chunk.css.map": "/irtezanaqvi/Business-Website-EpicInvestment/static/css/main.e4980218.chunk.css.map",
+    "static/js/2.b287f8e1.chunk.js.LICENSE.txt": "/irtezanaqvi/Business-Website-EpicInvestment/static/js/2.b287f8e1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/irtezanaqvi/Business-Website-EpicInvestment/static/media/services.8b108062.png",
+    "static/media/logo.6ce24c58.svg": "/irtezanaqvi/Business-Website-EpicInvestment/static/media/logo.6ce24c58.svg",
+    "static/media/work1.0e2ee734.png": "/irtezanaqvi/Business-Website-EpicInvestment/static/media/work1.0e2ee734.png",
+    "static/media/work2.88ea655d.png": "/irtezanaqvi/Business-Website-EpicInvestment/static/media/work2.88ea655d.png",
+    "static/media/work3.3117c4e7.png": "/irtezanaqvi/Business-Website-EpicInvestment/static/media/work3.3117c4e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.928040ab.js",
+    "static/css/2.0a8ff6d5.chunk.css",
+    "static/js/2.b287f8e1.chunk.js",
+    "static/css/main.e4980218.chunk.css",
+    "static/js/main.2fde20b0.chunk.js"
+  ]
+}
